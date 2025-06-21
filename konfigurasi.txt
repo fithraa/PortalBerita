@@ -1,0 +1,8 @@
+npm init -y
+npm i express cors mysql2 morgan
+npm install -D nodemon
+npm install mysql2 express-validator express-fileupload
+npm install bcryptjs cookie-parser express-session express-validator jsonwebtoken passport passport-google-oauth20 passport-local
+
+front:
+npm i axios dotenv js-cookie react-data-table-component react-hook-form @hookform/resolvers yup
